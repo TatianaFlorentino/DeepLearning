@@ -1,4 +1,6 @@
-# Trajetória Data Science - Agora Vamos falar sobre Deep Learning
+### Trajetória Data Science
+
+##### Agora Vamos falar sobre Deep Learning
 
 
 O que é?
